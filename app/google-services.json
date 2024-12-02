@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "524271395084",
-    "project_id": "dbexample-ed405",
-    "storage_bucket": "dbexample-ed405.firebasestorage.app"
+    "project_number": "199074227310",
+    "project_id": "appblog-5c663",
+    "storage_bucket": "appblog-5c663.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:524271395084:android:5b62c1a3e241d522492929",
+        "mobilesdk_app_id": "1:199074227310:android:908232c60f19fee625727f",
         "android_client_info": {
           "package_name": "com.example.appblog"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAWc79iTklhr_msSLagUii2jIabEgVPJTg"
+          "current_key": "AIzaSyDKDVzOSCvztMO-W12fp6wHRhkQ7Avm_ms"
         }
       ],
       "services": {
